@@ -51,12 +51,12 @@
     "got": "^11.8.6",
     "gradient-string": "^2.0.0",
     "jest": "^29.7.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.2.0",
     "json5": "^2.2.3",
     "ora": "4.1.1",
     "picocolors": "1.0.1",
     "publint": "^0.3.12",
-    "tar": "6.1.13",
+    "tar": "7.5.16",
     "ts-jest": "^29.2.5",
     "typescript": "5.5.4"
   }
