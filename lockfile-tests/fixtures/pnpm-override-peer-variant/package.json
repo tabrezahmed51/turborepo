@@ -2,7 +2,7 @@
   "name": "pnpm-override-peer-variant",
   "private": true,
   "devDependencies": {
-    "turbo": "2.8.7"
+    "turbo": "2.9.14"
   },
   "packageManager": "pnpm@10.28.1",
   "pnpm": {
