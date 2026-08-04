@@ -5,6 +5,6 @@
   ],
   "packageManager": "bun@1.0.0",
   "dependencies": {
-    "turbo": "^1.5.6"
+    "turbo": "^2.10.8"
   }
 }
