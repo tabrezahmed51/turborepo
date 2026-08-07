@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint-config-custom": "*",
     "prettier": "latest",
-    "turbo": "1.6.3"
+    "turbo": "2.9.14"
   },
   "packageManager": "yarn@3.6.0"
 }
