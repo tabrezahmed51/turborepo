@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "peerDependencies": {
-    "next": "^14 || ^15"
+    "next": "^15.5.24"
   }
 }
